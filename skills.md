@@ -10,14 +10,14 @@ layout: page
 * Node 
 * Express
 * React.js  
-* Flask 
+* Flask
 * Django
 
 ## MANAGEMENT AND DEPLOYMENT:
 * Git
-* GitHub
-* Heroku 
-* Command Line 
+* GitHu
+* Heroku
+* Command Line
 
 ## DATABASES:
 * SQL
@@ -25,7 +25,6 @@ layout: page
 * MongoDB
 
 ## METHODOLOGIES:
-
 * Restful APIs
 * Object Oriented Programming
 * Test-Driven Development
