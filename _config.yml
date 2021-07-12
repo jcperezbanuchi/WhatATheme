@@ -1,12 +1,12 @@
 markdown: kramdown
-url: ''
+url: ""
 baseurl: null
 title: Juan C. Perez Banuchi
-description: From being an Assistant Store Manager to a Full Stack Software Engineer. Based in NYC. 
-site-image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvjjNCkykXUjLlrnSAlzxpvKx8TlqfEaufqIDSIlzlgF8-Q4xb10NfAiUAIJqhJBWFTo&usqp=CAU'
-site-keywords: 'Site, Template, Theme'
-favicon-url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAuDn0q8uP183fLrKFKvlpL6YZZaJZCv66g&usqp=CAU'
-heroimage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvjjNCkykXUjLlrnSAlzxpvKx8TlqfEaufqIDSIlzlgF8-Q4xb10NfAiUAIJqhJBWFTo&usqp=CAU'
+description: From being an Assistant Store Manager to a Full Stack Software Engineer. Based in NYC.
+site-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvjjNCkykXUjLlrnSAlzxpvKx8TlqfEaufqIDSIlzlgF8-Q4xb10NfAiUAIJqhJBWFTo&usqp=CAU"
+site-keywords: "Site, Template, Theme"
+favicon-url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAuDn0q8uP183fLrKFKvlpL6YZZaJZCv66g&usqp=CAU"
+heroimage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvjjNCkykXUjLlrnSAlzxpvKx8TlqfEaufqIDSIlzlgF8-Q4xb10NfAiUAIJqhJBWFTo&usqp=CAU"
 email: juancarlosperez_23@yahoo.com
 twitter_username: juancoprz
 linkedin_username: juancprz
@@ -14,20 +14,20 @@ github_username: jcperezbanuchi
 google-analytics: UA-163806439-1
 author-name: Juan C Perez Banuchi
 author-image: >-
-    ./assets/images/me.jpeg
+  ./assets/images/me.jpeg
 author-about: >-
-     Hi there! I graduated from the University of Puerto Rico - Aguadilla campus with a bachelor degree in Biological sciences. 
-     I'm a fast learner, animal lover, and a traveler with a passion for technology. Since I moved to New York City, I've been searching and looking to learn programming, after a couple of years I started learning different languages on my own (JavaScript, HTML, CSS, Python). 
-     I'm currently finishing a Software Engineer Bootcamp at General Assembly, looking forward to learn more and more.
- 
-author-url: 'https://github.com/jcperezbanuchi'
+  Hi there! I graduated from the University of Puerto Rico - Aguadilla campus with a bachelor degree in Biological sciences. I'm a fast learner, animal lover, and a traveler with a passion for technology. 
+
+  Upon moving to New York City, I developed quite an interest in programming which manifested by self-teaching different languages in my spare time (JavaScript, HTML, CSS, Python). I'm currently enrolled in a Software Engineer Bootcamp at General Assembly; which upon completion will give me more insight and development in this career path that I hope to pursue and learn more of.
+
+author-url: "https://github.com/jcperezbanuchi"
 sass:
   sass_dir: _sass
   style: compressed
 plugins:
   - jekyll-admin
   - jekyll-feed
-permalink: ''
+permalink: ""
 compress_html:
   clippings: all
 defaults:
