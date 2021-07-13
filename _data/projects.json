@@ -18,9 +18,9 @@
     "description": "Phonebook app, full stack app where you can add, edit, delete contacts from a list. Technologies used: React.js, MongoDB, CSS, Express, Node."
   },
     {
-    "name": "Coming Soon",
-    "link": null,
-    "image": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg",
-    "description": "Coming soon"
+    "name": "Barbershop App",
+    "link": "https://barbers-app.herokuapp.com/",
+    "image": "./assets/images/Project4.png",
+    "description": "Barbershop app, full stack app using Django (backend) and React(frontend). Technologies used: React.js, Django, Css, Python"
     }
 ]
