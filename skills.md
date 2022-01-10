@@ -5,33 +5,37 @@ layout: page
 
 ## LANGUAGES AND FRAMEWORKS:
 
-- Python
-- JavaScript
-- jQuery
-- Node
-- Express
-- React.js
-- Flask
-- Django
+-   JavaScript
+-   Python
+-   React.js
+-   Node.js
+-   Express
+-   jQuery
+-   Flask
+-   Django
+-   Tailwind.css
+-
 
 ## MANAGEMENT AND DEPLOYMENT:
 
-- Git
-- GitHub
-- Heroku
-- Command Line
+-   Git
+-   GitHub
+-   Heroku
+-   Command Line
+-   Figma
+-   Asana
 
 ## DATABASES:
 
-- SQL
-- PostgreSQL
-- MongoDB
+-   SQL
+-   PostgreSQL
+-   MongoDB
 
 ## METHODOLOGIES:
 
-- Restful APIs
-- Object Oriented Programming
-- Test-Driven Development
-- Authentication
-- User Stories
-- Wireframing
+-   Restful APIs
+-   Object Oriented Programming
+-   Test-Driven Development
+-   Authentication
+-   User Stories
+-   Wireframing
