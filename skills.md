@@ -13,8 +13,8 @@ layout: page
 -   jQuery
 -   Flask
 -   Django
--   Tailwind.css
--
+-   Tailwind CSS
+-   Bootstrap
 
 ## MANAGEMENT AND DEPLOYMENT:
 
