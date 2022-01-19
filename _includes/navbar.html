@@ -28,17 +28,7 @@
 			<!-- navbar items | right side -->
 			<div class="navbar-end">
 				<a
-					class="
-						navbar-item
-						{%
-						if
-						page.layout
-						==
-						'default'
-						%}is-active{%
-						endif
-						%}
-					"
+					class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
 					href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}"
 					>HOME</a
 				>
@@ -59,7 +49,7 @@
 				>
 				<a
 					class="navbar-item"
-					href="https://drive.google.com/file/d/14lYXzfsYRNGnn9GTyM_bkMQ10NjLgSyK/view"
+					href="https://drive.google.com/file/d/1rDVH-Z8BjY8CyycpQcEDsw-uipOvtlgJ/view?usp=sharing"
 					target="_blank"
 					>RESUME</a
 				>
