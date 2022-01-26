@@ -2,7 +2,7 @@ markdown: kramdown
 url: ""
 baseurl: null
 title: Juan C. Perez Banuchi
-description: From being an Assistant Store Manager to a Full Stack Software Engineer. Based in NYC.
+description: From being an Assistant Store Manager to a Full Stack Software Engineer.
 site-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHvjjNCkykXUjLlrnSAlzxpvKx8TlqfEaufqIDSIlzlgF8-Q4xb10NfAiUAIJqhJBWFTo&usqp=CAU"
 site-keywords: "Site, Template, Theme"
 favicon-url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAuDn0q8uP183fLrKFKvlpL6YZZaJZCv66g&usqp=CAU"
@@ -14,35 +14,34 @@ github_username: jcperezbanuchi
 google-analytics: UA-163806439-1
 author-name: Juan C Perez Banuchi
 author-image: >-
-  ./assets/images/me.jpeg
+    ./assets/images/me.jpeg
 author-about: >-
-  Hi there! I graduated from the University of Puerto Rico - Aguadilla campus with a bachelor degree in Biological sciences. I'm a fast learner, animal lover, and a traveler with a passion for technology. 
+    Hi there! I graduated from the University of Puerto Rico - Aguadilla campus with a bachelor degree in Biological sciences. I'm a fast learner, animal lover, and a traveler with a passion for technology. 
 
-  Upon moving to New York City, I developed quite an interest in programming which manifested by self-teaching different languages in my spare time (JavaScript, HTML, CSS, Python). I'm currently enrolled in a Software Engineer Bootcamp at General Assembly; which upon completion will give me more insight and development in this career path that I hope to pursue and learn more of.
-
+    Upon moving to New York City, I developed quite an interest in programming which manifested by self-teaching different languages in my spare time (JavaScript, HTML, CSS, Python). I recently graduate from General Assembly Software Engineer Bootcamp, and after that I started an internship with Minti as a Software engineer Intern; which taught me how the development area works, how to think outside the box and how to perform at a high level in high pressure environment.
 author-url: "https://github.com/jcperezbanuchi"
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: _sass
+    style: compressed
 plugins:
-  - jekyll-admin
-  - jekyll-feed
+    - jekyll-admin
+    - jekyll-feed
 permalink: ""
 compress_html:
-  clippings: all
+    clippings: all
 defaults:
-  - scope:
-      type: pages
-    values:
-      layout: page
+    - scope:
+          type: pages
+      values:
+          layout: page
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+    - .sass-cache/
+    - .jekyll-cache/
+    - gemfiles/
+    - Gemfile
+    - Gemfile.lock
+    - node_modules/
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/

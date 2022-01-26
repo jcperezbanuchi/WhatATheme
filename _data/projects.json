@@ -3,24 +3,28 @@
     "name": "Simon Game",
     "image": "./assets/images/Simongame.png",
     "link": "https://jcperezbanuchi.github.io/simon-game/",
-    "description": "A simple 'Simon say's game. It starts with you hitting the start button. Then wait until the first color appears. Click on the color that lights up and wait for the next round of colors. It's going to increment the rounds if you click on the correct colors. If you hit the 20 rounds without missing any colors you win the game. Technologies used: JS, HTML, CSS."
+    "description": "A simple 'Simon say's game. It starts with you hitting the start button. Then wait until the first color appears. Click on the color that lights up and wait for the next round of colors. It's going to increment the rounds if you click on the correct colors. If you hit the 20 rounds without missing any colors you win the game. Technologies used: JS, HTML, CSS.",
+    "github": "https://github.com/jcperezbanuchi/simon-game"
   },
   {
     "name": "Covid-19 Vaccine Database",
     "link": "https://project-2-records.herokuapp.com/",
     "image": "./assets/images/Project2.png",
-    "description": "Full CRUD Covid 19 app, where you add, edit, delete or view a patients covid-19 vaccine records. Technologies used: JS, EJS, Express, Node, CSS, MongoDB"
+    "description": "Full CRUD Covid 19 app, where you add, edit, delete or view a patients covid-19 vaccine records. Technologies used: JS, EJS, Express, Node, CSS, MongoDB",
+    "github": "https://github.com/jcperezbanuchi/project-2"
   },
   {
     "name": "Phonebook App",
     "link": "https://phonebook-frontend-project3.herokuapp.com/",
     "image": "./assets/images/Project3.png",
-    "description": "Phonebook app, full stack app where you can add, edit, delete contacts from a list. Technologies used: React.js, MongoDB, CSS, Express, Node."
+    "description": "Phonebook app, full stack app where you can add, edit, delete contacts from a list. Technologies used: React.js, MongoDB, CSS, Express, Node.",
+    "github": "https://github.com/jcperezbanuchi/phonebook-frontend"
   },
     {
     "name": "Barbershop App",
     "link": "https://barbers-app.herokuapp.com/",
     "image": "./assets/images/Project4.png",
-    "description": "Barbershop app, full stack app using Django (backend) and React(frontend). Technologies used: React.js, Django, Css, Python"
+    "description": "Barbershop app, full stack app using Django (backend) and React(frontend). Technologies used: React.js, Django, Css, Python",
+    "github": "https://github.com/jcperezbanuchi/barbershop_frontend"
     }
 ]
