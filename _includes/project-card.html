@@ -15,7 +15,7 @@
 						{{ project.name }}
 					</h1>
 					<p class="has-text-white has-text-weight-light content">
-						{{ project.description }}
+						{{ project.description | truncate : 80 }}
 					</p>
           <p class="has-text-white has-text-weight-light content">
             <a href="{{project.link}}" target="_blank"> Demo </a>
