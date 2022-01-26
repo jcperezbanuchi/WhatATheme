@@ -10,14 +10,14 @@
     "name": "Covid-19 Vaccine Database",
     "link": "https://project-2-records.herokuapp.com/",
     "image": "./assets/images/Project2.png",
-    "description": "Full CRUD Covid 19 databases site. Technologies used: JS, EJS, Express, Node, CSS, MongoDB",
+    "description": "Full-stack CRUD app. Technologies used: JS, EJS, Express, Node, CSS, MongoDB",
     "github": "https://github.com/jcperezbanuchi/project-2"
   },
   {
     "name": "Phonebook App",
     "link": "https://phonebook-frontend-project3.herokuapp.com/",
     "image": "./assets/images/Project3.png",
-    "description": "Full stack CRUD app. Technologies used: React.js, MongoDB, CSS, Express, Node.",
+    "description": "Full-stack CRUD app. Technologies used: React.js, MongoDB, CSS, Express, Node.",
     "github": "https://github.com/jcperezbanuchi/phonebook-frontend"
   },
     {
